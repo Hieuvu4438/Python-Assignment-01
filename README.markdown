@@ -10,7 +10,7 @@ The notebook is divided into three exercises:
 1. **Exercise 1**: Web scraping and data aggregation into a structured CSV file.
 2. **Exercise 2**: Statistical analysis (top/bottom performers and team/player statistics).
 3. **Excercise 3**: Clustering Players for Classfiers
-4. **Exercise 3**: Machine learning to predict player market values.
+4. **Exercise 4**: Machine learning to predict player market values.
 
 ## Requirements
 
