@@ -9,7 +9,8 @@ The project focuses on collecting comprehensive player statistics from the Premi
 The notebook is divided into three exercises:
 1. **Exercise 1**: Web scraping and data aggregation into a structured CSV file.
 2. **Exercise 2**: Statistical analysis (top/bottom performers and team/player statistics).
-3. **Exercise 3**: Machine learning to predict player market values.
+3. **Excercise 3**: Clustering Players for Classfiers
+4. **Exercise 3**: Machine learning to predict player market values.
 
 ## Requirements
 
@@ -72,7 +73,9 @@ Additionally, you need:
 - Multi-index dataframe for structured output in `results2.csv`.
 - Clear text formatting in `top_3.txt` for easy interpretation.
 
-### Exercise 3: Player Market Value Prediction
+
+
+### Exercise 4: Player Market Value Prediction
 
 **Objective**: Build a Random Forest model to predict player market values based on their statistics, with results visualized in a scatter plot.
 
