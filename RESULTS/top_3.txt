@@ -1,0 +1,740 @@
+Statistic: birth_year
+Top 3 Highest:
+1. Łukasz Fabiański (40)
+2. Ashley Young (40)
+3. James Milner (39)
+Top 3 Lowest:
+1. Mikey Moore (18)
+2. Ethan Nwaneri (18)
+3. Harry Amass (18)
+
+Statistic: games
+Top 3 Highest:
+1. Ollie Watkins (35)
+2. Raúl Jiménez (35)
+3. Youri Tielemans (35)
+Top 3 Lowest:
+1. Altay Bayındır (1)
+2. Tyler Fredricson (1)
+3. Brandon Austin (1)
+
+Statistic: games_starts
+Top 3 Highest:
+1. Milos Kerkez (35)
+2. Youri Tielemans (35)
+3. Bernd Leno (35)
+Top 3 Lowest:
+1. Ali Al Hamadi (0)
+2. Toby Collyer (0)
+3. William Osula (0)
+
+Statistic: minutes
+Top 3 Highest:
+1. Omar Marmoush (998.0)
+2. Oliver Skipp (996.0)
+3. Christian Eriksen (994.0)
+Top 3 Lowest:
+1. Yves Bissouma (0.0)
+2. Rayan Aït-Nouri (0.0)
+3. André Onana (0.0)
+
+Statistic: goals
+Top 3 Highest:
+1. Mohamed Salah (28)
+2. Alexander Isak (22)
+3. Erling Haaland (21)
+Top 3 Lowest:
+1. Wilson Odobert (0)
+2. Willy Boly (0)
+3. Willian (0)
+
+Statistic: assists
+Top 3 Highest:
+1. Mohamed Salah (18)
+2. Jacob Murphy (11)
+3. Antonee Robinson (10)
+Top 3 Lowest:
+1. Aaron Cresswell (0)
+2. Aaron Ramsdale (0)
+3. Ali Al Hamadi (0)
+
+Statistic: cards_yellow
+Top 3 Highest:
+1. Saša Lukić (12)
+2. Will Hughes (11)
+3. Marc Cucurella (10)
+Top 3 Lowest:
+1. Alphonse Areola (0)
+2. Alisson (0)
+3. André Onana (0)
+
+Statistic: cards_red
+Top 3 Highest:
+1. Myles Lewis-Skelly (2)
+2. Jack Stephens (2)
+3. Bruno Fernandes (2)
+Top 3 Lowest:
+1. İlkay Gündoğan (0)
+2. Wataru Endo (0)
+3. William Smallbone (0)
+
+Statistic: xg
+Top 3 Highest:
+1. Mohamed Salah (23.9)
+2. Erling Haaland (20.8)
+3. Alexander Isak (19.0)
+Top 3 Lowest:
+1. Aaron Ramsdale (0.0)
+2. Łukasz Fabiański (0.0)
+3. Wataru Endo (0.0)
+
+Statistic: xg_assist
+Top 3 Highest:
+1. Mohamed Salah (12.8)
+2. Cole Palmer (9.3)
+3. Son Heung-min (8.2)
+Top 3 Lowest:
+1. Aaron Ramsdale (0.0)
+2. Woyo Coulibaly (0.0)
+3. Altay Bayındır (0.0)
+
+Statistic: progressive_carries_x
+Top 3 Highest:
+1. Jeremy Doku (189)
+2. Mohamed Salah (142)
+3. Kaoru Mitoma (138)
+Top 3 Lowest:
+1. Aaron Ramsdale (0)
+2. Alisson (0)
+3. Alphonse Areola (0)
+
+Statistic: progressive_passes_x
+Top 3 Highest:
+1. Bruno Fernandes (281)
+2. Joško Gvardiol (251)
+3. Bruno Guimarães (241)
+Top 3 Lowest:
+1. Aaron Ramsdale (0)
+2. Alisson (0)
+3. Altay Bayındır (0)
+
+Statistic: progressive_passes_received_x
+Top 3 Highest:
+1. Mohamed Salah (425)
+2. Bryan Mbeumo (306)
+3. Kaoru Mitoma (277)
+Top 3 Lowest:
+1. Aaron Ramsdale (0)
+2. Arijanet Muric (0)
+3. Antonín Kinský (0)
+
+Statistic: goals_per90
+Top 3 Highest:
+1. Jáder Durán (0.99)
+2. Donyell Malen (0.92)
+3. James Mcatee (0.89)
+Top 3 Lowest:
+1. Vitaliy Mykolenko (0.0)
+2. Armando Broja (0.0)
+3. Armel Bella Kotchap (0.0)
+
+Statistic: assists_per90
+Top 3 Highest:
+1. Tyrique George (0.87)
+2. Danny Ings (0.63)
+3. Bukayo Saka (0.58)
+Top 3 Lowest:
+1. Aaron Cresswell (0.0)
+2. Yerson Mosquera (0.0)
+3. Yehor Yarmoliuk (0.0)
+
+Statistic: xg_per90
+Top 3 Highest:
+1. James Mcatee (0.83)
+2. Richarlison (0.78)
+3. Erling Haaland (0.76)
+Top 3 Lowest:
+1. Archie Gray (0.0)
+2. Antonín Kinský (0.0)
+3. Łukasz Fabiański (0.0)
+
+Statistic: xg_assist_per90
+Top 3 Highest:
+1. Tyrique George (0.63)
+2. Mykhailo Mudryk (0.58)
+3. Philip Billing (0.54)
+Top 3 Lowest:
+1. Łukasz Fabiański (0.0)
+2. Aaron Ramsdale (0.0)
+3. Altay Bayındır (0.0)
+
+Statistic: gk_goals_against_per90
+Top 3 Highest:
+1. Danny Ward (4.0)
+2. Altay Bayındır (4.0)
+3. Christian Walton (2.67)
+Top 3 Lowest:
+1. Adam Smith (0.0)
+2. Tyler Fredricson (0.0)
+3. William Osula (0.0)
+
+Statistic: gk_save_pct
+Top 3 Highest:
+1. Daniel Bentley (100.0)
+2. Neto (84.6)
+3. Mark Travers (80.0)
+Top 3 Lowest:
+1. Alex Scott (0.0)
+2. İlkay Gündoğan (0.0)
+3. Yukinari Sugawara (0.0)
+
+Statistic: gk_clean_sheets_pct
+Top 3 Highest:
+1. Hákon Rafn Valdimarsson (100.0)
+2. Daniel Bentley (100.0)
+3. Robin Olsen (100.0)
+Top 3 Lowest:
+1. Altay Bayındır (0.0)
+2. Ali Al Hamadi (0.0)
+3. Alexis Mac Allister (0.0)
+
+Statistic: gk_pens_save_pct
+Top 3 Highest:
+1. Caoimhín Kelleher (100.0)
+2. Jordan Pickford (100.0)
+3. Dean Henderson (50.0)
+Top 3 Lowest:
+1. İlkay Gündoğan (0.0)
+2. William Saliba (0.0)
+3. William Smallbone (0.0)
+
+Statistic: shots_on_target_pct
+Top 3 Highest:
+1. Archie Gray (100.0)
+2. Ryan Fraser (100.0)
+3. Séamus Coleman (100.0)
+Top 3 Lowest:
+1. Aaron Cresswell (0.0)
+2. Aaron Ramsdale (0.0)
+3. Ali Al Hamadi (0.0)
+
+Statistic: shots_on_target_per90
+Top 3 Highest:
+1. Julio Enciso (3.37)
+2. Donyell Malen (2.76)
+3. Luis Sinisterra (2.29)
+Top 3 Lowest:
+1. Alex Palmer (0.0)
+2. Victor Bernth Kristiansen (0.0)
+3. Andrés García (0.0)
+
+Statistic: goals_per_shot
+Top 3 Highest:
+1. John Stones (1.0)
+2. Myles Lewis-Skelly (0.5)
+3. Axel Disasi (0.5)
+Top 3 Lowest:
+1. Aaron Cresswell (0.0)
+2. Armel Bella Kotchap (0.0)
+3. Axel Disasi (0.0)
+
+Statistic: average_shot_distance
+Top 3 Highest:
+1. Ibrahim Sangaré (32.0)
+2. Emmanuel Agbadou (31.8)
+3. Ryan Fraser (31.6)
+Top 3 Lowest:
+1. Łukasz Fabiański (0.0)
+2. Aaron Ramsdale (0.0)
+3. Alphonse Areola (0.0)
+
+Statistic: passes_completed
+Top 3 Highest:
+1. Virgil van Dijk (2446)
+2. Joško Gvardiol (2321)
+3. William Saliba (2320)
+Top 3 Lowest:
+1. William Osula (11)
+2. Roman Dixon (11)
+3. Albert Grønbaek (13)
+
+Statistic: passes_pct
+Top 3 Highest:
+1. William Saliba (94.2)
+2. Nathan Aké (93.9)
+3. Manuel Akanji (93.9)
+Top 3 Lowest:
+1. Matz Sels (50.5)
+2. Altay Bayındır (52.5)
+3. George Hirst (55.8)
+
+Statistic: passes_total_distance
+Top 3 Highest:
+1. Virgil van Dijk (44780)
+2. William Saliba (39927)
+3. Levi Colwill (39487)
+Top 3 Lowest:
+1. William Osula (126)
+2. Albert Grønbaek (135)
+3. Roman Dixon (205)
+
+Statistic: passes_pct_short
+Top 3 Highest:
+1. Łukasz Fabiański (100.0)
+2. Altay Bayındır (100.0)
+3. Arijanet Muric (100.0)
+Top 3 Lowest:
+1. William Osula (61.5)
+2. Paul Onuachu (62.9)
+3. George Hirst (66.7)
+
+Statistic: passes_pct_medium
+Top 3 Highest:
+1. Martin Dúbravka (100.0)
+2. Brandon Austin (100.0)
+3. Caoimhín Kelleher (100.0)
+Top 3 Lowest:
+1. Beto (50.0)
+2. Roman Dixon (50.0)
+3. William Osula (50.0)
+
+Statistic: passes_pct_long
+Top 3 Highest:
+1. Wataru Endo (100.0)
+2. Tyrell Malacia (100.0)
+3. Andy Irving (100.0)
+Top 3 Lowest:
+1. William Osula (0.0)
+2. Ben Godfrey (0.0)
+3. Ali Al Hamadi (0.0)
+
+Statistic: assisted_shots
+Top 3 Highest:
+1. Bruno Fernandes (84)
+2. Mohamed Salah (80)
+3. Cole Palmer (78)
+Top 3 Lowest:
+1. Aaron Ramsdale (0)
+2. Alphonse Areola (0)
+3. Altay Bayındır (0)
+
+Statistic: passes_into_final_third
+Top 3 Highest:
+1. Virgil van Dijk (265)
+2. Joško Gvardiol (237)
+3. Youri Tielemans (228)
+Top 3 Lowest:
+1. Ali Al Hamadi (0)
+2. Tyrique George (0)
+3. William Osula (0)
+
+Statistic: passes_into_penalty_area
+Top 3 Highest:
+1. Mohamed Salah (82)
+2. Martin Ødegaard (81)
+3. Alex Iwobi (78)
+Top 3 Lowest:
+1. Willy Boly (0)
+2. André Onana (0)
+3. Altay Bayındır (0)
+
+Statistic: crosses_into_penalty_area
+Top 3 Highest:
+1. Antonee Robinson (28)
+2. Pedro Porro (26)
+3. Milos Kerkez (23)
+Top 3 Lowest:
+1. Łukasz Fabiański (0)
+2. Aaron Ramsdale (0)
+3. Ali Al Hamadi (0)
+
+Statistic: progressive_passes_y
+Top 3 Highest:
+1. Bruno Fernandes (281)
+2. Joško Gvardiol (251)
+3. Bruno Guimarães (241)
+Top 3 Lowest:
+1. Aaron Ramsdale (0)
+2. Alisson (0)
+3. Altay Bayındır (0)
+
+Statistic: sca
+Top 3 Highest:
+1. Cole Palmer (180)
+2. Bruno Fernandes (169)
+3. Mohamed Salah (153)
+Top 3 Lowest:
+1. Altay Bayındır (0)
+2. Ben Mee (0)
+3. Brandon Austin (0)
+
+Statistic: sca_per90
+Top 3 Highest:
+1. Philip Billing (7.83)
+2. Luis Guilherme (6.52)
+3. Kevin De Bruyne (6.08)
+Top 3 Lowest:
+1. Ben Mee (0.0)
+2. Chadi Riad (0.0)
+3. Brandon Austin (0.0)
+
+Statistic: gca
+Top 3 Highest:
+1. Mohamed Salah (26)
+2. Bukayo Saka (22)
+3. Mikkel Damsgaard (21)
+Top 3 Lowest:
+1. Wesley Fofana (0)
+2. William Osula (0)
+3. Antony (0)
+
+Statistic: gca_per90
+Top 3 Highest:
+1. Bukayo Saka (1.29)
+2. Solly March (1.08)
+3. Mikey Moore (0.97)
+Top 3 Lowest:
+1. Aaron Cresswell (0.0)
+2. Aaron Ramsdale (0.0)
+3. Łukasz Fabiański (0.0)
+
+Statistic: tackles
+Top 3 Highest:
+1. Idrissa Gana Gueye (124)
+2. Daniel Muñoz (109)
+3. João Gomes (105)
+Top 3 Lowest:
+1. Aaron Ramsdale (0)
+2. Arijanet Muric (0)
+3. Bart Verbruggen (0)
+
+Statistic: tackles_won
+Top 3 Highest:
+1. Idrissa Gana Gueye (74)
+2. Daniel Muñoz (70)
+3. Moisés Caicedo (63)
+Top 3 Lowest:
+1. Aaron Ramsdale (0)
+2. Ali Al Hamadi (0)
+3. Altay Bayındır (0)
+
+Statistic: challenges
+Top 3 Highest:
+1. João Gomes (102)
+2. Alexis Mac Allister (101)
+3. Trent Alexander-Arnold (101)
+Top 3 Lowest:
+1. Armando Broja (0)
+2. Brandon Austin (0)
+3. Martin Dúbravka (0)
+
+Statistic: challenges_lost
+Top 3 Highest:
+1. João Gomes (60)
+2. Trent Alexander-Arnold (53)
+3. Elliot Anderson (52)
+Top 3 Lowest:
+1. Woyo Coulibaly (0)
+2. Max Aarons (0)
+3. Ayden Heaven (0)
+
+Statistic: blocks
+Top 3 Highest:
+1. Nathan Collins (69)
+2. Murillo (66)
+3. Tyrick Mitchell (62)
+Top 3 Lowest:
+1. Aaron Ramsdale (0)
+2. Ali Al Hamadi (0)
+3. Alisson (0)
+
+Statistic: blocked_shots
+Top 3 Highest:
+1. Nathan Collins (49)
+2. Dara O'Shea (47)
+3. Murillo (43)
+Top 3 Lowest:
+1. Wataru Endo (0)
+2. William Osula (0)
+3. Antony (0)
+
+Statistic: blocked_passes
+Top 3 Highest:
+1. Alexis Mac Allister (54)
+2. Antoine Semenyo (51)
+3. Tyrick Mitchell (50)
+Top 3 Lowest:
+1. Aaron Ramsdale (0)
+2. Ali Al Hamadi (0)
+3. Arijanet Muric (0)
+
+Statistic: interceptions
+Top 3 Highest:
+1. Aaron Wan-Bissaka (59)
+2. Antonee Robinson (57)
+3. Ryan Gravenberch (57)
+Top 3 Lowest:
+1. Łukasz Fabiański (0)
+2. Albert Grønbaek (0)
+3. Kosta Nedeljković (0)
+
+Statistic: touches
+Top 3 Highest:
+1. Virgil van Dijk (3010)
+2. Joško Gvardiol (2903)
+3. William Saliba (2717)
+Top 3 Lowest:
+1. Daniel Bentley (35)
+2. Roman Dixon (36)
+3. Brandon Austin (36)
+
+Statistic: touches_def_pen_area
+Top 3 Highest:
+1. Mark Flekken (1305)
+2. Bernd Leno (1097)
+3. Emiliano Martínez (1015)
+Top 3 Lowest:
+1. Emi Buendía (0)
+2. Willian (1)
+3. Mikey Moore (1)
+
+Statistic: touches_def_3rd
+Top 3 Highest:
+1. Mark Flekken (1615)
+2. Jordan Pickford (1494)
+3. Bernd Leno (1354)
+Top 3 Lowest:
+1. William Osula (2)
+2. Odsonne Édouard (4)
+3. Callum Wilson (5)
+
+Statistic: touches_mid_3rd
+Top 3 Highest:
+1. Virgil van Dijk (1664)
+2. William Saliba (1519)
+3. Joško Gvardiol (1474)
+Top 3 Lowest:
+1. Brandon Austin (0)
+2. Daniel Bentley (0)
+3. Neto (0)
+
+Statistic: touches_att_3rd
+Top 3 Highest:
+1. Mohamed Salah (993)
+2. Bruno Fernandes (888)
+3. Bryan Mbeumo (876)
+Top 3 Lowest:
+1. Arijanet Muric (0)
+2. Antonín Kinský (0)
+3. Bart Verbruggen (0)
+
+Statistic: touches_att_pen_area
+Top 3 Highest:
+1. Mohamed Salah (320)
+2. Antoine Semenyo (176)
+3. Alexander Isak (175)
+Top 3 Lowest:
+1. Arijanet Muric (0)
+2. Mads Hermansen (0)
+3. Bernd Leno (0)
+
+Statistic: take_ons
+Top 3 Highest:
+1. Mohammed Kudus (188)
+2. Jeremy Doku (185)
+3. Morgan Rogers (153)
+Top 3 Lowest:
+1. Aaron Ramsdale (0)
+2. Alphonse Areola (0)
+3. Ben Godfrey (0)
+
+Statistic: take_ons_won
+Top 3 Highest:
+1. Jeremy Doku (102)
+2. Mohammed Kudus (84)
+3. Morgan Rogers (65)
+Top 3 Lowest:
+1. Aaron Ramsdale (0)
+2. Antonín Kinský (0)
+3. Arijanet Muric (0)
+
+Statistic: take_ons_tackled
+Top 3 Highest:
+1. Mohammed Kudus (87)
+2. Kaoru Mitoma (73)
+3. Morgan Rogers (68)
+Top 3 Lowest:
+1. Aaron Cresswell (0)
+2. Aaron Ramsdale (0)
+3. Wataru Endo (0)
+
+Statistic: carries
+Top 3 Highest:
+1. Joško Gvardiol (1886)
+2. Virgil van Dijk (1682)
+3. William Saliba (1675)
+Top 3 Lowest:
+1. Roman Dixon (16)
+2. Harry Toffolo (17)
+3. Albert Grønbaek (18)
+
+Statistic: carries_progressive_distance
+Top 3 Highest:
+1. Jan Paul van Hecke (6643)
+2. Joško Gvardiol (5715)
+3. Rúben Dias (5295)
+Top 3 Lowest:
+1. Albert Grønbaek (15)
+2. Harry Toffolo (23)
+3. Massimo Luongo (25)
+
+Statistic: progressive_carries_y
+Top 3 Highest:
+1. Jeremy Doku (189)
+2. Mohamed Salah (142)
+3. Kaoru Mitoma (138)
+Top 3 Lowest:
+1. Aaron Ramsdale (0)
+2. Alisson (0)
+3. Alphonse Areola (0)
+
+Statistic: carries_into_final_third
+Top 3 Highest:
+1. Alex Iwobi (102)
+2. Joško Gvardiol (92)
+3. Jeremy Doku (88)
+Top 3 Lowest:
+1. Aaron Ramsdale (0)
+2. Antonín Kinský (0)
+3. Arijanet Muric (0)
+
+Statistic: carries_into_penalty_area
+Top 3 Highest:
+1. Mohamed Salah (113)
+2. Jeremy Doku (90)
+3. Noni Madueke (80)
+Top 3 Lowest:
+1. Aaron Cresswell (0)
+2. Aaron Ramsdale (0)
+3. Yves Bissouma (0)
+
+Statistic: miscontrols
+Top 3 Highest:
+1. Mohamed Salah (105)
+2. Morgan Rogers (104)
+3. Liam Delap (99)
+Top 3 Lowest:
+1. Altay Bayındır (0)
+2. Alphonse Areola (0)
+3. Antonín Kinský (0)
+
+Statistic: dispossessed
+Top 3 Highest:
+1. Mohammed Kudus (88)
+2. Bruno Guimarães (73)
+3. Antoine Semenyo (72)
+Top 3 Lowest:
+1. Aaron Cresswell (0)
+2. Aaron Ramsdale (0)
+3. Alisson (0)
+
+Statistic: passes_received
+Top 3 Highest:
+1. Joško Gvardiol (2132)
+2. Virgil van Dijk (2063)
+3. William Saliba (2056)
+Top 3 Lowest:
+1. Roman Dixon (13)
+2. Daniel Bentley (14)
+3. Brandon Austin (16)
+
+Statistic: progressive_passes_received_y
+Top 3 Highest:
+1. Mohamed Salah (425)
+2. Bryan Mbeumo (306)
+3. Kaoru Mitoma (277)
+Top 3 Lowest:
+1. Aaron Ramsdale (0)
+2. Arijanet Muric (0)
+3. Antonín Kinský (0)
+
+Statistic: fouls
+Top 3 Highest:
+1. Liam Delap (67)
+2. João Gomes (67)
+3. Antoine Semenyo (66)
+Top 3 Lowest:
+1. Arijanet Muric (0)
+2. Antonín Kinský (0)
+3. Mark Flekken (0)
+
+Statistic: fouled
+Top 3 Highest:
+1. Bruno Guimarães (99)
+2. Matheus Cunha (69)
+3. John McGinn (67)
+Top 3 Lowest:
+1. Tyrique George (0)
+2. Antonín Kinský (0)
+3. Axel Disasi (0)
+
+Statistic: offsides
+Top 3 Highest:
+1. Dominic Calvert-Lewin (27)
+2. Chris Wood (26)
+3. Jamie Vardy (25)
+Top 3 Lowest:
+1. Aaron Cresswell (0)
+2. Aaron Ramsdale (0)
+3. Alisson (0)
+
+Statistic: crosses
+Top 3 Highest:
+1. Pedro Porro (191)
+2. Bryan Mbeumo (177)
+3. Bruno Fernandes (172)
+Top 3 Lowest:
+1. Łukasz Fabiański (0)
+2. Aaron Ramsdale (0)
+3. Ali Al Hamadi (0)
+
+Statistic: ball_recoveries
+Top 3 Highest:
+1. Moisés Caicedo (197)
+2. Bruno Fernandes (192)
+3. Elliot Anderson (186)
+Top 3 Lowest:
+1. Altay Bayındır (0)
+2. Brandon Austin (1)
+3. Daniel Bentley (1)
+
+Statistic: aerials_won
+Top 3 Highest:
+1. Dan Burn (127)
+2. Nathan Collins (110)
+3. Virgil van Dijk (110)
+Top 3 Lowest:
+1. Welington (0)
+2. Antony (0)
+3. Max Aarons (0)
+
+Statistic: aerials_lost
+Top 3 Highest:
+1. Chris Wood (123)
+2. Jørgen Strand Larsen (96)
+3. Jean-Philippe Mateta (95)
+Top 3 Lowest:
+1. Albert Grønbaek (0)
+2. Ben Godfrey (0)
+3. Alphonse Areola (0)
+
+Statistic: aerials_won_pct
+Top 3 Highest:
+1. Aaron Ramsdale (100.0)
+2. Alisson (100.0)
+3. Alphonse Areola (100.0)
+Top 3 Lowest:
+1. Andrés García (0.0)
+2. Timo Werner (0.0)
+3. Welington (0.0)
+
