@@ -1,0 +1,230 @@
+Statistic: birth_year
+Top Team: Ipswich Town (811)
+
+Statistic: games
+Top Team: Ipswich Town (546)
+
+Statistic: games_starts
+Top Team: Arsenal (385)
+Top Team: Aston Villa (385)
+Top Team: Bournemouth (385)
+Top Team: Everton (385)
+Top Team: Ipswich Town (385)
+Top Team: Leicester City (385)
+
+Statistic: minutes
+Top Team: Ipswich Town (8635.0)
+
+Statistic: goals
+Top Team: Liverpool (79)
+
+Statistic: assists
+Top Team: Liverpool (59)
+
+Statistic: cards_yellow
+Top Team: Chelsea (94)
+
+Statistic: cards_red
+Top Team: Arsenal (5)
+Top Team: Ipswich Town (5)
+
+Statistic: xg
+Top Team: Liverpool (76.2)
+
+Statistic: xg_assist
+Top Team: Liverpool (55.2)
+
+Statistic: progressive_carries_x
+Top Team: Manchester City (1041)
+
+Statistic: progressive_passes_x
+Top Team: Manchester City (1757)
+
+Statistic: progressive_passes_received_x
+Top Team: Manchester City (1740)
+
+Statistic: goals_per90
+Top Team: Aston Villa (4.76)
+
+Statistic: assists_per90
+Top Team: Chelsea (3.44)
+
+Statistic: xg_per90
+Top Team: Aston Villa (5.41)
+
+Statistic: xg_assist_per90
+Top Team: Chelsea (3.98)
+
+Statistic: gk_goals_against_per90
+Top Team: Leicester City (7.9)
+
+Statistic: gk_save_pct
+Top Team: Tottenham (240.5)
+
+Statistic: gk_clean_sheets_pct
+Top Team: Wolves (125.9)
+
+Statistic: gk_pens_save_pct
+Top Team: Everton (100.0)
+Top Team: Liverpool (100.0)
+
+Statistic: shots_on_target_pct
+Top Team: Brighton (793.2)
+
+Statistic: shots_on_target_per90
+Top Team: Aston Villa (13.0)
+
+Statistic: goals_per_shot
+Top Team: Manchester City (2.92)
+
+Statistic: average_shot_distance
+Top Team: Brighton (456.5)
+
+Statistic: passes_completed
+Top Team: Manchester City (19838)
+
+Statistic: passes_pct
+Top Team: Manchester Utd (2376.3)
+
+Statistic: passes_total_distance
+Top Team: Manchester City (321782)
+
+Statistic: passes_pct_short
+Top Team: Manchester Utd (2616.0)
+
+Statistic: passes_pct_medium
+Top Team: Southampton (2475.5)
+
+Statistic: passes_pct_long
+Top Team: Manchester Utd (1721.2)
+
+Statistic: assisted_shots
+Top Team: Liverpool (462)
+
+Statistic: passes_into_final_third
+Top Team: Manchester City (1550)
+
+Statistic: passes_into_penalty_area
+Top Team: Arsenal (402)
+
+Statistic: crosses_into_penalty_area
+Top Team: Fulham (99)
+
+Statistic: progressive_passes_y
+Top Team: Manchester City (1757)
+
+Statistic: sca
+Top Team: Liverpool (1046)
+
+Statistic: sca_per90
+Top Team: Brighton (70.07)
+
+Statistic: gca
+Top Team: Liverpool (136)
+
+Statistic: gca_per90
+Top Team: Brighton (8.39)
+
+Statistic: tackles
+Top Team: Wolves (738)
+
+Statistic: tackles_won
+Top Team: Manchester Utd (441)
+
+Statistic: challenges
+Top Team: Leicester City (641)
+
+Statistic: challenges_lost
+Top Team: Leicester City (333)
+
+Statistic: blocks
+Top Team: Leicester City (461)
+
+Statistic: blocked_shots
+Top Team: Brentford (176)
+Top Team: Leicester City (176)
+
+Statistic: blocked_passes
+Top Team: Crystal Palace (306)
+
+Statistic: interceptions
+Top Team: Manchester Utd (340)
+
+Statistic: touches
+Top Team: Manchester City (25845)
+
+Statistic: touches_def_pen_area
+Top Team: Brentford (2995)
+
+Statistic: touches_def_3rd
+Top Team: Manchester Utd (7728)
+
+Statistic: touches_mid_3rd
+Top Team: Manchester City (11182)
+
+Statistic: touches_att_3rd
+Top Team: Manchester City (8835)
+
+Statistic: touches_att_pen_area
+Top Team: Manchester City (1213)
+
+Statistic: take_ons
+Top Team: Tottenham (747)
+
+Statistic: take_ons_won
+Top Team: Manchester City (351)
+
+Statistic: take_ons_tackled
+Top Team: Tottenham (386)
+
+Statistic: carries
+Top Team: Manchester City (16617)
+
+Statistic: carries_progressive_distance
+Top Team: Manchester City (51299)
+
+Statistic: progressive_carries_y
+Top Team: Manchester City (1041)
+
+Statistic: carries_into_final_third
+Top Team: Manchester City (779)
+
+Statistic: carries_into_penalty_area
+Top Team: Manchester City (362)
+
+Statistic: miscontrols
+Top Team: Bournemouth (542)
+
+Statistic: dispossessed
+Top Team: Newcastle Utd (406)
+
+Statistic: passes_received
+Top Team: Manchester City (19576)
+
+Statistic: progressive_passes_received_y
+Top Team: Manchester City (1740)
+
+Statistic: fouls
+Top Team: Bournemouth (472)
+
+Statistic: fouled
+Top Team: Aston Villa (459)
+
+Statistic: offsides
+Top Team: Nott'ham Forest (82)
+
+Statistic: crosses
+Top Team: Fulham (834)
+
+Statistic: ball_recoveries
+Top Team: Bournemouth (1691)
+
+Statistic: aerials_won
+Top Team: Brentford (562)
+
+Statistic: aerials_lost
+Top Team: Crystal Palace (574)
+
+Statistic: aerials_won_pct
+Top Team: Southampton (1579.1)
+
